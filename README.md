@@ -2,6 +2,13 @@
 
 Welcome to the Sayonika Project! This is your stop point for everything Sayonika, here are a few repositories you can contribute at.
 
+## What is the Sayonika Project?
+
+The Sayonika project is a mod distribution platform and tooling incubation for Doki Doki Literature Club. This is a partnership
+project initiated by [Enra](https://github.com/sr229) and [Logokas](https://reddit.com/u/Logokas) to further simplify how mods
+are being catalogued officially by the r/DDLCMods team. It also serves as a technological incubation to improve creation and
+distributing mods - with open source!
+
 ## Platform
 
 - [Backend](https://github.com/Sayo-nika/Backend)
