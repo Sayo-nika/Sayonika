@@ -9,6 +9,9 @@ project initiated by [Enra](https://github.com/sr229) and [Logokas](https://redd
 are being catalogued officially by the r/DDLCMods team. It also serves as a technological incubation to improve creation and
 distributing mods - with open source!
 
+
+We use donations to power the website, so drop us money to buy us a coffee at [PayPal](https://paypal.me/chinodesuuu) or buy the [supporter](#) status!
+
 ## Platform
 
 - [Backend](https://github.com/Sayo-nika/Backend)
