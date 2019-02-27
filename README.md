@@ -12,6 +12,9 @@ distributing mods - with open source!
 
 We use donations to power the website, so drop us money to buy us a coffee at [PayPal](https://paypal.me/chinodesuuu) or buy the [supporter](#) status!
 
+
+If you have questions or just wanna have fun, feel free to join the [Sayonika Commons](https://discord.gg/sGUkGc8) discord.
+
 ## Platform
 
 - [Backend](https://github.com/Sayo-nika/Backend)
