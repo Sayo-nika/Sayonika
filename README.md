@@ -10,7 +10,7 @@ are being catalogued officially by the r/DDLCMods team. It also serves as a tech
 distributing mods - with open source!
 
 
-We use donations to power the website, so drop us money to buy us a coffee at [PayPal](https://paypal.me/chinodesuuu) or buy the [supporter](#) status!
+We use donations to power the website, so drop us money to buy us a coffee at [PayPal](https://paypal.me/chinodesuuu) or buy a [ko-fi](https://ko-fi.com/capuccino)!
 
 
 If you have questions or just wanna have fun, feel free to join the [Sayonika Commons](https://discord.gg/sGUkGc8) discord.
