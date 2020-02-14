@@ -1,3 +1,5 @@
+# THIS PROJECT HAS BEEN ARCHIVED AND IS NO LONGER MAINTAINED.
+
 # The Sayonika Project
 
 Welcome to the Sayonika Project! This is your stop point for everything Sayonika, here are a few repositories you can contribute at.
